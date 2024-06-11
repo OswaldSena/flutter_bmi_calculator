@@ -90,9 +90,7 @@ To get started with the BMI Calculator app, follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-### Author
 
-- [Oswald Sena](https://github.com/OswaldSena)
 
 Feel free to contribute to this project by opening issues or submitting pull requests.
 
